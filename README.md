@@ -38,5 +38,10 @@
   ## Questions
   
   If you have any questions about this application you may email me at aaronhdm@gmail.com.
-  Or you may reach out at my GitHub: [Aaron Hernandez](https://github.com/aaronhdm).
+  Or you may reach out to me at my GitHub: [Aaron Hernandez](https://github.com/aaronhdm).
   
+  ## Preview of App  
+  
+
+https://user-images.githubusercontent.com/107087837/181399441-1b66296e-d237-4521-b53f-805191b1b42a.mp4
+
